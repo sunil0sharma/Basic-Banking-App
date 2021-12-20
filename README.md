@@ -1,6 +1,5 @@
 # Basic-Banking-App
-Internship Project on Basic Banking App using  Java, XML, SQL and Android Studio.
-
+Internship Project on Basic Banking App.
 This app is made to complete Task#2 of Graduate Rotational Internship Program(GRIP) of The Sparks Foundation i.e.,Basic Banking System in an android app.
 
 The technologies which have been used for this project are Java, XML, SQL and Android studio. 
